@@ -1,3 +1,3 @@
 # cs231n
 Stanford cs231n spring assignments. 
-Tensorflow used instead of pyTorch.
+Tensorflow and pyTorch used.
